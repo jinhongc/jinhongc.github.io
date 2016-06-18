@@ -1,0 +1,31 @@
+{
+  "profile": {
+
+    "name": {
+      "first": "Jinhong",
+      "middle": "",
+      "last": "Chen"
+    },
+
+    "address": {
+      "apt": "",
+      "street": "",
+      "city": "Pittsburgh",
+      "cityCode": "15213",
+      "state": "PA.",
+      "stateCode": ""
+    },
+
+    "email": "chenhong805 at gmail.com"
+
+  },
+  "educations": {
+
+  },
+  "experiences": {
+
+  },
+  "projects": {
+
+  }
+}
