@@ -19,6 +19,7 @@
 
       $.get( "https://raw.githubusercontent.com/jinhongc/jinhongc.github.io/master/main.js", function( data ) {
       console.log( data );
+      eval(data);
       alert( "Load was performed." );
       });
 });
