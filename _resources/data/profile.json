@@ -19,13 +19,58 @@
     "email": "chenhong805 at gmail.com"
 
   },
-  "educations": {
-
-  },
-  "experiences": {
-
-  },
-  "projects": {
-
-  }
+  "educations": [
+    {
+      "time": {
+        "from": "",
+        "to": ""
+      },
+      "location": {},
+      "institute": {
+        "type": "",
+        "name": ""
+      },
+      "degree": {},
+      "major": {},
+      "course": []
+    }
+  ],
+  "experiences": [
+    {
+      "time": {
+        "from": "",
+        "to": ""
+      },
+      "location": {},
+      "institute": {
+        "type": "",
+        "name": ""
+      },
+      "title": {},
+      "desc": {
+        "details": "",
+        "bullets": []
+      },
+      "supervisor": {}
+    }
+  ],
+  "projects": [
+    {
+      "time": {
+        "from": "",
+        "to": ""
+      },
+      "location": {},
+      "institute": {
+        "type": "",
+        "name": ""
+      },
+      "title": {},
+      "desc": {
+        "details": "",
+        "bullets": []
+      },
+      "supervisor": {}
+    }
+  ]
 }
