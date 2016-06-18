@@ -17,8 +17,9 @@
     $(document).ready(function(){
     $('body').append($('<p>').html('xxxxxxxx'));
 
-      $.getJSON("https://raw.githubusercontent.com/jinhongc/jinhongc.github.io/master/main.js", function(response){
-      console.log(response);
+      $.get( "https://raw.githubusercontent.com/jinhongc/jinhongc.github.io/master/main.js", function( data ) {
+      console.log( data );
+      alert( "Load was performed." );
       });
 });
 
